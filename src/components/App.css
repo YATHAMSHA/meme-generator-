@@ -1,0 +1,16 @@
+.skills-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /*background: rgb(45, 52, 54);*/
+    background: #343A40;
+    padding: 155px;
+    flex-basis: 50%;
+    text-align: justify;
+}
+
+
+
+
+
